@@ -1,1 +1,3 @@
 This is a predictive tool for optimal meeting locations for groups of individuals by optimizing driving distances and minimizing drive times, accounting for traffic. 
+
+All personal information in this project (eg. addresses, API key) was stored in a class called Constants and removed from this version uploaded to Github. To use the tool, you must make an account with [HERE]([url](https://www.here.com/)) and form an API key. You can enter as many locations as desired, though I have not tested the program with any locations outside of the US. In addition, it defaults to the fastest route to get from point A to point B, which you can modify as desired. 
